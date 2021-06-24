@@ -13,7 +13,7 @@
     "hex-to-binary": "^1.0.1",
     "lodash": "^4.17.11",
     "morgan": "^1.9.1",
-    "ws": "^6.0.0"
+    "ws": "^6.2.2"
   },
   "scripts": {
     "dev": "nodemon src/server.js"
